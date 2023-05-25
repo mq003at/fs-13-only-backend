@@ -1,0 +1,19 @@
+{
+  "FilePath": "d:\\W-Working\\job\\integrify\\dotnet\\fs13-fs\\fs13-FullStack\\backend\\backend.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "backend",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
