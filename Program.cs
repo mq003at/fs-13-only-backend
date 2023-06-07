@@ -23,19 +23,8 @@ builder.Services
     );
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-// builder.Services.AddEndpointsApiExplorer();
-// builder.Services.AddSwaggerGen(c => 
-// {
-//     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Acacia API", Version = "v1" });
-// });
-// builder.services.ConfigureSwaggerGen(options => 
-// {
-//     options.CustomSchemaIds(type => type.ToString()); // Type's name as schema's id
-//     // options.IncludeXmlComments(GetXmlCommentsFilePath());
-// });
-
-builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddCors(options =>
 {
@@ -142,7 +131,11 @@ var app = builder.Build();
 // }
 
 app.UseSwagger();
-app.UseSwaggerUI();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Your API");
+    c.RoutePrefix = string.Empty; // Set the route prefix to an empty string
+});
 
 // using (var scope = app.Services.CreateScope())
 // {

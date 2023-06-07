@@ -81,7 +81,7 @@ public static class DbBuilderExtension
             products = JsonConvert.DeserializeObject<List<Product>>(productJson);
         }
 
-        if (products is not null && categories is not null)
+        if (products != null && categories != null)
         {
             foreach (var product in products)
             {
