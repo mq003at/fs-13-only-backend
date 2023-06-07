@@ -72,3 +72,18 @@ D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\obj\Release\net
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\obj\Release\net6.0\backend.pdb
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\obj\Release\net6.0\backend.genruntimeconfig.cache
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\obj\Release\net6.0\ref\backend.dll
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\out\web.config
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\out\appsettings.Development.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\out\appsettings.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\out\appsettings.Production.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\out\backend.deps.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\out\backend.runtimeconfig.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\out\example.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\out\Properties copy\launchSettings.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\Db\AppDbContext.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\Db\AppDbContextSaveChangesInterceptor.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\Db\DbBuilderExtension.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\Db\IdentityConfigExtension.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\Db\Json\CategorySeeds.js
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\Db\Json\ProductSeeds.js
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll

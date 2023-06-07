@@ -59,11 +59,6 @@ public class CartController : CrudController<Cart, CartDTO, CartFilter, CartUpda
     )
     {
         var cartItem = await _cartItemService.HandleCartItem(request, id);
-        if (cartItem is null)
-        {
-            return BadRequest("There are some errors creating transaction.");
-        }
-
         var cart = await _CartService.GetAsync(id);
         if (cart is null)
         {

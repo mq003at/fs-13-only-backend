@@ -75,7 +75,7 @@ public abstract class CrudController<TModel, TDto, TFilter, TUpdateDTO> : ApiCon
         var items = await _service.GetAllAsync(filter);
         if (items == null || !items.Any())
         {
-            return BadRequest(new { message = "No entry found, or that table is empty." });
+            return Ok(new List<TDto>());
         }
         return Ok(items);
     }

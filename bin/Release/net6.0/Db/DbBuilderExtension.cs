@@ -67,34 +67,24 @@ public static class DbBuilderExtension
 
         var catPath = Path.Combine(Environment.CurrentDirectory, "Db", "Json", "CategorySeeds.js");
         var categoryJson = File.ReadAllText(catPath);
-        List<Category>? categories = null;
-        if (categoryJson != null)
-        {
-            categories = JsonConvert.DeserializeObject<List<Category>>(categoryJson);
-        }
+        var categories = JsonConvert.DeserializeObject<List<Category>>(categoryJson);
 
         var prodPath = Path.Combine(Environment.CurrentDirectory, "Db", "Json", "ProductSeeds.js");
         var productJson = File.ReadAllText(prodPath);
-        List<Product>? products = null;
-        if (productJson != null)
-        {
-            products = JsonConvert.DeserializeObject<List<Product>>(productJson);
-        }
+        var products = JsonConvert.DeserializeObject<List<Product>>(productJson);
 
-        if (products != null && categories != null)
+        foreach (var product in products)
         {
-            foreach (var product in products)
+            var category = categories.FirstOrDefault(c => c.Name == product.Category.Name);
+            if (category != null)
             {
-                var category = categories.FirstOrDefault(c => c.Name == product.Category.Name);
-                if (category != null)
-                {
-                    product.CategoryId = category.Id;
-                }
+                product.CategoryId = category.Id;
                 product.Category = null; // Remove the Category property to avoid conflicts
             }
-            modelBuilder.Entity<Category>().HasData(categories);
-            modelBuilder.Entity<Product>().HasData(products);
         }
+
+        modelBuilder.Entity<Category>().HasData(categories);
+        modelBuilder.Entity<Product>().HasData(products);
 
         foreach (var entityType in modelBuilder.Model.GetEntityTypes())
         {

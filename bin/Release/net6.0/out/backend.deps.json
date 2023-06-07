@@ -12,14 +12,12 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.15",
           "Microsoft.AspNetCore.Cors": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.15",
-          "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
           "Microsoft.EntityFrameworkCore.Design": "7.0.5",
           "Microsoft.EntityFrameworkCore.Proxies": "7.0.5",
           "Microsoft.IdentityModel.Tokens": "6.28.1",
           "Newtonsoft.Json": "13.0.3",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.3",
           "Swashbuckle.AspNetCore": "6.5.0",
-          "Swashbuckle.AspNetCore.SwaggerUI": "6.5.0",
           "System.IdentityModel.Tokens.Jwt": "6.28.1"
         },
         "runtime": {
@@ -50,14 +48,7 @@
           }
         }
       },
-      "Humanizer.Core/2.14.1": {
-        "runtime": {
-          "lib/net6.0/Humanizer.dll": {
-            "assemblyVersion": "2.14.0.0",
-            "fileVersion": "2.14.1.48190"
-          }
-        }
-      },
+      "Humanizer.Core/2.14.1": {},
       "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.15": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.10.0"
@@ -128,14 +119,6 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Mvc.Versioning/5.1.0": {
-        "runtime": {
-          "lib/net6.0/Microsoft.AspNetCore.Mvc.Versioning.dll": {
-            "assemblyVersion": "5.1.0.0",
-            "fileVersion": "5.1.8270.41513"
-          }
-        }
-      },
       "Microsoft.CSharp/4.5.0": {},
       "Microsoft.EntityFrameworkCore/7.0.5": {
         "dependencies": {
@@ -167,12 +150,6 @@
           "Microsoft.EntityFrameworkCore.Relational": "7.0.5",
           "Microsoft.Extensions.DependencyModel": "7.0.0",
           "Mono.TextTemplating": "2.2.1"
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
-            "assemblyVersion": "7.0.5.0",
-            "fileVersion": "7.0.523.16503"
-          }
         }
       },
       "Microsoft.EntityFrameworkCore.Proxies/7.0.5": {
@@ -260,12 +237,6 @@
         "dependencies": {
           "System.Text.Encodings.Web": "7.0.0",
           "System.Text.Json": "7.0.0"
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyModel.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
-          }
         }
       },
       "Microsoft.Extensions.FileProviders.Abstractions/2.2.0": {
@@ -433,12 +404,6 @@
       "Mono.TextTemplating/2.2.1": {
         "dependencies": {
           "System.CodeDom": "4.4.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Mono.TextTemplating.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.1.1"
-          }
         }
       },
       "Newtonsoft.Json/13.0.3": {
@@ -514,14 +479,7 @@
         }
       },
       "System.Buffers/4.5.0": {},
-      "System.CodeDom/4.4.0": {
-        "runtime": {
-          "lib/netstandard2.0/System.CodeDom.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.6.25519.3"
-          }
-        }
-      },
+      "System.CodeDom/4.4.0": {},
       "System.Diagnostics.EventLog/6.0.0": {},
       "System.IdentityModel.Tokens.Jwt/6.28.1": {
         "dependencies": {
@@ -665,13 +623,6 @@
       "sha512": "sha512-Ycrx57/G7U5/M8K0iI8dbLyRp2B1eLVhvrGV/wRmlLKYoiEnx7czLj6JoXAnVWRzfzKbgXonYrrNwqSpSgEgPw==",
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/6.0.15",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.6.0.15.nupkg.sha512"
-    },
-    "Microsoft.AspNetCore.Mvc.Versioning/5.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-UX8w9BlCiZpr6Ox4YAve1w0CkI1CAovukGNzKd7v0+5pZc8lzuG5tRovucr1RWIKHs0E/Yx8563CN7KzaB3bpw==",
-      "path": "microsoft.aspnetcore.mvc.versioning/5.1.0",
-      "hashPath": "microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",

@@ -42,6 +42,7 @@ public class ProductController
     [HttpGet("test")]
     public async Task<ActionResult> Get()
     {
+        await Task.CompletedTask;
         return Ok(new { Message = "Test completed!" });
     }
 }

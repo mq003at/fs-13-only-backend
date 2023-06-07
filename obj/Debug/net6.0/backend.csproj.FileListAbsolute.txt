@@ -81,3 +81,9 @@ D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\out\example.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\out\Properties copy\launchSettings.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Db\AppDbContext.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Db\AppDbContextSaveChangesInterceptor.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Db\DbBuilderExtension.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Db\IdentityConfigExtension.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Db\Json\CategorySeeds.js
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Db\Json\ProductSeeds.js
