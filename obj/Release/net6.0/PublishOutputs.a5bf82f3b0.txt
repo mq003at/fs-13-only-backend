@@ -1,9 +1,23 @@
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\backend.exe
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\out\web.config
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\appsettings.Development.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\appsettings.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\appsettings.Production.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\example.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\out\appsettings.Development.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\out\appsettings.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\out\appsettings.Production.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\out\backend.deps.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\out\backend.runtimeconfig.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\out\example.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\out\Properties copy\launchSettings.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Properties copy\launchSettings.json
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Db\AppDbContext.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Db\AppDbContextSaveChangesInterceptor.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Db\DbBuilderExtension.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Db\IdentityConfigExtension.cs
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Db\Json\CategorySeeds.js
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Db\Json\ProductSeeds.js
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\backend.dll
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\backend.runtimeconfig.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\backend.pdb
@@ -13,6 +27,7 @@ D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Microsoft.A
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Microsoft.AspNetCore.Mvc.Versioning.dll
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Microsoft.EntityFrameworkCore.dll
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\out\Microsoft.EntityFrameworkCore.Proxies.dll
