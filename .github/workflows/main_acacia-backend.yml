@@ -23,7 +23,7 @@ jobs:
           app-name: 'acacia-backend'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_58CC6EEE3FE54CBEB3BE053FAE50C1C4 }}
-          images: |
+          images:
             ./out/**/*.xml
             ./out/**/*.dll
             ./out/**/*.json
