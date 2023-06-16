@@ -17,7 +17,6 @@ D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\out\backend.runtimeconfig.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\out\example.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\out\Properties copy\launchSettings.json
-D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Properties copy\launchSettings.json
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Db\AppDbContext.cs
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Db\AppDbContextSaveChangesInterceptor.cs
 D:\W-Working\job\integrify\dotnet\fs13-fs\fs13-FullStack\backend\bin\Debug\net6.0\Db\DbBuilderExtension.cs
