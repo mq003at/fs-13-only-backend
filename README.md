@@ -6,8 +6,9 @@
 ![Generic badge](https://img.shields.io/badge/Json-v.13.0-black.svg)
 
 # Testing
-Testing directory is located in backend-testing. You can run the following command line to start the testing process
- dotnet test --logger "console;verbosity=detailed"
+Testing directory is located in backend-testing. You can run the following command line to start the testing process in that directory.
+
+` dotnet test --logger "console;verbosity=detailed"`
 
 # Project Structure
 <details>
